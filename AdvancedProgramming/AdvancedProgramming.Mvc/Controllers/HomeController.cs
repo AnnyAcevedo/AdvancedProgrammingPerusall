@@ -26,20 +26,5 @@ namespace AdvancedProgramming.Mvc.Controllers
 
             return View();
         }
-        public ActionResult Set()
-        {
-            Guid sessionId = SessionManager.GetOrCreateSessionId(Request, Response);
-            SessionManager.SetSessionData(sessionId, "Prueba Jose Pablo Salgado Herrera");
-
-        return Content("Sesión guardada en el servidor");
-        }
-
-        public ActionResult Get()
-        {
-            Guid sessionId = SessionManager.GetOrCreateSessionId(Request, Response);
-            string userData = SessionManager.GetSessionData(sessionId);
-
-        return Content("Datos de la sesión actual: " + (userData ?? "Vacío"));
-        }
     }
 }
