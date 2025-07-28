@@ -1,0 +1,12 @@
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.csproj.AssemblyReference.cache
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.csproj.CoreCompileInputs.cache
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\AdvancedProgramming.Data.dll.config
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\AdvancedProgramming.Data.dll
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\AdvancedProgramming.Data.pdb
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.dll
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.xml
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\Advanced.30991138.Up2Date
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.dll
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.pdb

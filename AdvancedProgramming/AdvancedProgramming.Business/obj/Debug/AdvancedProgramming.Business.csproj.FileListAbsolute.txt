@@ -1,0 +1,6 @@
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\AdvancedProgramming.Business.dll
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\AdvancedProgramming.Business.pdb
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Business\obj\Debug\AdvancedProgramming.Business.csproj.AssemblyReference.cache
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Business\obj\Debug\AdvancedProgramming.Business.csproj.CoreCompileInputs.cache
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Business\obj\Debug\AdvancedProgramming.Business.dll
+C:\ProgamacionAvanzada\Perusall\AdvancedProgrammingPerusall\AdvancedProgramming\AdvancedProgramming.Business\obj\Debug\AdvancedProgramming.Business.pdb

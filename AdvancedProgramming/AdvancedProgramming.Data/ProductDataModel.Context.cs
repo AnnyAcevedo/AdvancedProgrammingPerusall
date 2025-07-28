@@ -24,7 +24,12 @@ namespace AdvancedProgramming.Data
         {
             throw new UnintentionalCodeFirstException();
         }
-    
+
+        public void SaveChanges()
+        {
+            throw new NotImplementedException();
+        }
+
         public virtual DbSet<Category> Categories { get; set; }
         public virtual DbSet<Component> Components { get; set; }
         public virtual DbSet<Inventory> Inventories { get; set; }
