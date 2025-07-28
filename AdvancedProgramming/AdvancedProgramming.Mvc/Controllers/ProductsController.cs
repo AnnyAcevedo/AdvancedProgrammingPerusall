@@ -14,9 +14,15 @@ namespace AdvancedProgramming.Mvc.Controllers
     public class ProductsController : Controller
     {
         private readonly ProductRepository productRepository;
+        private readonly CategoryRepository categoryRepository;
+        private readonly InventoryRepository inventoryRepository;
+        private readonly SupplierRepository supplierRepository;
         public ProductsController()
         {
             productRepository = new ProductRepository();
+            categoryRepository = new CategoryRepository();
+            inventoryRepository = new InventoryRepository();
+            supplierRepository = new SupplierRepository();
         }
 
         // GET: Products
@@ -44,11 +50,11 @@ namespace AdvancedProgramming.Mvc.Controllers
         // GET: Products/Create
         public ActionResult Create()
         {
-            /*
-            ViewBag.CategoryID = new SelectList(db.Categories, "CategoryID", "CategoryName");
-            ViewBag.InventoryID = new SelectList(db.Inventories, "InventoryID", "ModifiedBy");
-            ViewBag.SupplierID = new SelectList(db.Suppliers, "SupplierID", "SupplierName");
-            */
+            
+            ViewBag.CategoryID = new SelectList(categoryRepository.GetAllCategories(), "CategoryID", "CategoryName");
+            ViewBag.InventoryID = new SelectList(inventoryRepository.GetAllInventory(), "InventoryID", "ModifiedBy");
+            ViewBag.SupplierID = new SelectList(supplierRepository.GetAllSuppliers(), "SupplierID", "SupplierName");
+            
             return View();
         }
 
@@ -64,11 +70,11 @@ namespace AdvancedProgramming.Mvc.Controllers
                 productRepository.AddProduct(product);
                 return RedirectToAction("Index");
             }
-            /*
-            ViewBag.CategoryID = new SelectList(db.Categories, "CategoryID", "CategoryName", product.CategoryID);
-            ViewBag.InventoryID = new SelectList(db.Inventories, "InventoryID", "ModifiedBy", product.InventoryID);
-            ViewBag.SupplierID = new SelectList(db.Suppliers, "SupplierID", "SupplierName", product.SupplierID);
-            */
+            
+            ViewBag.CategoryID = new SelectList(categoryRepository.GetAllCategories(), "CategoryID", "CategoryName", product.CategoryID);
+            ViewBag.InventoryID = new SelectList(inventoryRepository.GetAllInventory(), "InventoryID", "ModifiedBy", product.InventoryID);
+            ViewBag.SupplierID = new SelectList(supplierRepository.GetAllSuppliers(), "SupplierID", "SupplierName", product.SupplierID);
+            
             return View(product);
         }
 
@@ -84,11 +90,11 @@ namespace AdvancedProgramming.Mvc.Controllers
             {
                 return HttpNotFound();
             }
-            /*
-            ViewBag.CategoryID = new SelectList(db.Categories, "CategoryID", "CategoryName", product.CategoryID);
-            ViewBag.InventoryID = new SelectList(db.Inventories, "InventoryID", "ModifiedBy", product.InventoryID);
-            ViewBag.SupplierID = new SelectList(db.Suppliers, "SupplierID", "SupplierName", product.SupplierID);
-            */
+
+            ViewBag.CategoryID = new SelectList(categoryRepository.GetAllCategories(), "CategoryID", "CategoryName", product.CategoryID);
+            ViewBag.InventoryID = new SelectList(inventoryRepository.GetAllInventory(), "InventoryID", "ModifiedBy", product.InventoryID);
+            ViewBag.SupplierID = new SelectList(supplierRepository.GetAllSuppliers(), "SupplierID", "SupplierName", product.SupplierID);
+
             return View(product);
         }
 
@@ -104,11 +110,9 @@ namespace AdvancedProgramming.Mvc.Controllers
                 productRepository.UpdateProduct(product);
                 return RedirectToAction("Index");
             }
-            /*
-            ViewBag.CategoryID = new SelectList(db.Categories, "CategoryID", "CategoryName", product.CategoryID);
-            ViewBag.InventoryID = new SelectList(db.Inventories, "InventoryID", "ModifiedBy", product.InventoryID);
-            ViewBag.SupplierID = new SelectList(db.Suppliers, "SupplierID", "SupplierName", product.SupplierID);
-            */
+            ViewBag.CategoryID = new SelectList(categoryRepository.GetAllCategories(), "CategoryID", "CategoryName", product.CategoryID);
+            ViewBag.InventoryID = new SelectList(inventoryRepository.GetAllInventory(), "InventoryID", "ModifiedBy", product.InventoryID);
+            ViewBag.SupplierID = new SelectList(supplierRepository.GetAllSuppliers(), "SupplierID", "SupplierName", product.SupplierID);
             return View(product);
         }
 

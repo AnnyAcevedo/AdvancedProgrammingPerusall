@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4A7C1EB-0C70-4C07-9707-1EB786498825}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\advancedprogramming.repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4A7C1EB-0C70-4C07-9707-1EB786498825}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|solutionrelative:advancedprogramming.repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1ABAAEBE-47EA-4CB0-9175-CB5296C95606}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\advancedprogramming.mvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1ABAAEBE-47EA-4CB0-9175-CB5296C95606}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ABAAEBE-47EA-4CB0-9175-CB5296C95606}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\advancedprogramming.mvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1ABAAEBE-47EA-4CB0-9175-CB5296C95606}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7B3773A6-FBD4-4D20-A0B4-2DBE8E32B36E}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\advancedprogramming.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7B3773A6-FBD4-4D20-A0B4-2DBE8E32B36E}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|solutionrelative:advancedprogramming.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A7C1EB-0C70-4C07-9707-1EB786498825}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|c:\\progamacionavanzada\\perusall\\advancedprogrammingperusall\\advancedprogramming\\advancedprogramming.repository\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A7C1EB-0C70-4C07-9707-1EB786498825}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|solutionrelative:advancedprogramming.repository\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1ABAAEBE-47EA-4CB0-9175-CB5296C95606}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\advancedprogramming.mvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,16 +23,20 @@
       "RelativeMoniker": "D:0:0:{1ABAAEBE-47EA-4CB0-9175-CB5296C95606}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1ABAAEBE-47EA-4CB0-9175-CB5296C95606}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\advancedprogramming.mvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ABAAEBE-47EA-4CB0-9175-CB5296C95606}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A7C1EB-0C70-4C07-9707-1EB786498825}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|c:\\progamacionavanzada\\perusall\\advancedprogrammingperusall\\advancedprogramming\\advancedprogramming.repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A7C1EB-0C70-4C07-9707-1EB786498825}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|solutionrelative:advancedprogramming.repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B3773A6-FBD4-4D20-A0B4-2DBE8E32B36E}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\advancedprogramming.data\\productdatamodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B3773A6-FBD4-4D20-A0B4-2DBE8E32B36E}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|solutionrelative:advancedprogramming.data\\productdatamodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ABAAEBE-47EA-4CB0-9175-CB5296C95606}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\advancedprogramming.mvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1ABAAEBE-47EA-4CB0-9175-CB5296C95606}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B3773A6-FBD4-4D20-A0B4-2DBE8E32B36E}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\advancedprogramming.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7B3773A6-FBD4-4D20-A0B4-2DBE8E32B36E}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|solutionrelative:advancedprogramming.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A4A7C1EB-0C70-4C07-9707-1EB786498825}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|c:\\progamacionavanzada\\perusall\\advancedprogrammingperusall\\advancedprogramming\\advancedprogramming.repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A7C1EB-0C70-4C07-9707-1EB786498825}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|solutionrelative:advancedprogramming.repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,50 +46,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\AdvancedProgramming.Repository\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Repository\\InventoryRepository.cs",
+              "ToolTip": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\AdvancedProgramming.Repository\\InventoryRepository.cs",
+              "RelativeToolTip": "AdvancedProgramming.Repository\\InventoryRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:14:27.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Views\\Products\\Index.cshtml",
               "ToolTip": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "AdvancedProgramming.Mvc\\Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-28T05:31:08.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Views\\Products\\Create.cshtml",
               "ToolTip": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\Products\\Create.cshtml",
               "RelativeToolTip": "AdvancedProgramming.Mvc\\Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-28T05:30:41.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "AdvancedProgramming.Mvc\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAMwBgAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T05:30:38.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ProductDataModel.Context.cs",
               "DocumentMoniker": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\AdvancedProgramming.Data\\ProductDataModel.Context.cs",
               "RelativeDocumentMoniker": "AdvancedProgramming.Data\\ProductDataModel.Context.cs",
@@ -94,40 +115,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\AdvancedProgramming.Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "AdvancedProgramming.Repository\\ProductRepository.cs",
               "ToolTip": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\AdvancedProgramming.Repository\\ProductRepository.cs",
               "RelativeToolTip": "AdvancedProgramming.Repository\\ProductRepository.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAADgvxoAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAApwDAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T04:30:04.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "App.Config",
               "DocumentMoniker": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\AdvancedProgramming.Data\\App.Config",
               "RelativeDocumentMoniker": "AdvancedProgramming.Data\\App.Config",
               "ToolTip": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\AdvancedProgramming.Data\\App.Config",
               "RelativeToolTip": "AdvancedProgramming.Data\\App.Config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-07-27T11:31:48.446Z"
+              "WhenOpened": "2025-07-27T11:31:48.446Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Web.config",
               "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Web.config",
               "ToolTip": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Web.config",
               "RelativeToolTip": "AdvancedProgramming.Mvc\\Web.config",
-              "ViewState": "AgIAACgAAAAAAAAAAAAmwEEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-07-27T11:31:36.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\AdvancedProgramming.Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\ProgamacionAvanzada\\Perusall\\AdvancedProgrammingPerusall\\AdvancedProgramming\\AdvancedProgramming.Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "AdvancedProgramming.Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:08:37.742Z",
               "EditorCaption": ""
             }
           ]
