@@ -24,7 +24,17 @@
             </div>
         </div>
     </nav>
+
     <div class="container body-content">
+        @{
+            var user = Session["User"] as AdvancedProgramming.Data.User;
+        }
+
+        @if (user != null)
+        {
+            <p>Welcome, @user.Username </p>
+        }
+
         @RenderBody()
         <hr />
         <footer>
